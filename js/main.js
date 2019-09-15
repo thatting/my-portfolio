@@ -7,13 +7,14 @@ const myWork = [
     'title': "Deep RL Arm Manipulation",
     'href1': "https://drive.google.com/file/d/1vwTFEVlSL4RJRNFqIRBY2IOcAVBP3vmH/view?usp=sharing",
     'href2': "https://github.com/thatting/thomas-hatting-deep-rl-arm-manipulation",
-    'desc':  "In deep reinforcement learning (Deep RL), an artificially intelligent agent learn from \
+    'desc':  "In deep reinforcement learning (Deep RL), an intelligent agent learns from \
               interacting with its environment using a system of rewards. The trained agent is \
               capable of exhibiting intuitive behaviours and performing complex tasks. In this project,\
-              I trained a robotic arm with gripper to touch an object in a simulated environment. \
-              I used a C++ API to provide an interface to train a Deep Q Learning (DQN) agent. \
-              The arm touched the object with 90% accuracy and the arm’s gripper base touched the  \
-              object with 84% accuracy. For further information see links to report and code in GitHub.",
+              I trained a robotic arm with a gripper to be able to touch an object. \
+              To be specific, I used a C++ API to provide an interface to train a Deep Q Learning (DQN) agent. \
+               The arm touched the object with 90% accuracy, and the arm’s gripper base \
+              touched the object with 84% accuracy. This project was carried out in a simulated environment.\
+              For further information see links to report and code in GitHub.",
     'image': {
       'desc': "Deep RL Arm Manipulation",
       'src':  "images/Deep-RL-picture-for-bubble.png",
@@ -27,10 +28,9 @@ const myWork = [
     'desc':  "Simultaneous Localization and Mapping (SLAM) is a field of robotics dealing with \
               situations where the robot does not have access to a map of the environment nor have \
               knowledge of its own pose. Well-known approaches to SLAM are EKF, FastSLAM and GraphSLAM. \
-              In this project, I used a variant of GraphSLAM called RTAB-Map. The robot was \
-              configured in ROS, based on a previous project. Two simulated environments were \
+              In this project, I used a variant of GraphSLAM called RTAB-Map. Two simulated environments were \
               created: a kitchen-dining environment, based on an existing template, and secondly a custom \
-              designed environment. I navigated the robot around these two environments in order to generate 2D  \
+              designed environment. I navigated the robot around the two environments in order to generate 2D  \
               and 3D maps. The 2D/3D maps of the environment were clearly recognizable and sufficient loop closures  \
               were achieved. For further information see links to report and code in GitHub.\
               ",
