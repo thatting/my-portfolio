@@ -63,4 +63,4 @@ typings/
 dist
 
 # Ignore package-lock.json as it is causing errors in GitHub
-package-lock.json
+# package-lock.json
