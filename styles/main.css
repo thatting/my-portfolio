@@ -28,6 +28,14 @@
   color: rgb(52, 152, 219);
 }
 
+.background--forestGreen {
+  background-color: rgb(34, 139, 34);
+}
+
+.color--forestGreen {
+  color: rgb(34, 139, 34);
+}
+
 .color--cloud {
   color: rgb(236, 240, 241);
 }
