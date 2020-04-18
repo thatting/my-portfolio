@@ -13,6 +13,7 @@ artifacts:
     - index.html
     - favicon.ico
     - Resume_Thomas_Hatting.pdf
+    - My_Reading_List.pdf
     - styles/main.css
     - images/*
     - dist/bundle.js
