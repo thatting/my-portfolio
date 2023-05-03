@@ -53,20 +53,6 @@ const myWork = [
       'src':  "images/PR2-picture-for-bubble.png",
       'comment': ""
     }
-  },
-  {
-      'title': "3D Perception",
-      'href1': "https://drive.google.com/file/d/15Qhe_-csaKutsFaDSlZEAm7-pQRrhXVh/view?usp=sharing",
-      'href2': "https://github.com/thatting/thomas-hatting-3d-perception",
-      'desc':  "In this project, I created a perception pipeline to enable a robot (of type PR2) to move an object. \
-                The image analysis was carried out using point cloud filtering and segmentation, and the programming  \
-                was done in Python. The perception pipeline correctly identified the objects: 100% in test world 1, \
-                80% in test world 2, 88% in test world 3. For further information see links to report and code in GitHub.",
-      'image': {
-        'desc': "3D Perception",
-        'src':  "images/PR2-picture-for-bubble.png",
-        'comment': ""
-      }
   }
 ]
 
